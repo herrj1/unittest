@@ -1,7 +1,5 @@
 #herrj1
-
 import unittest
-
 class NameBuilding:
     def __init__(self, firstname, lastname):
         self.fname = firstname
